@@ -5,7 +5,7 @@
 ### Description
 
 ### Title
-tour.name = MANGATU SECRETÁRIO
+tour.name = BALNEÁRIO
 
 ## Skin
 

@@ -6,15 +6,81 @@
 }
 @font-face {
    font-family: "Cooper Hewitt";
+   src: url("fonts/CooperHewitt-BoldItalic.woff") format("woff"), url("fonts/CooperHewitt-BoldItalic.eot") format("embedded-opentype"), url("fonts/CooperHewitt-BoldItalic.otf") format("opentype");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Cooper Hewitt";
+   src: url("fonts/CooperHewitt-Book.woff") format("woff"), url("fonts/CooperHewitt-Book.eot") format("embedded-opentype"), url("fonts/CooperHewitt-Book.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Cooper Hewitt";
+   src: url("fonts/CooperHewitt-BookItalic.woff") format("woff"), url("fonts/CooperHewitt-BookItalic.eot") format("embedded-opentype"), url("fonts/CooperHewitt-BookItalic.otf") format("opentype");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Cooper Hewitt";
+   src: url("fonts/CooperHewitt-Heavy.woff") format("woff"), url("fonts/CooperHewitt-Heavy.eot") format("embedded-opentype"), url("fonts/CooperHewitt-Heavy.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Cooper Hewitt";
+   src: url("fonts/CooperHewitt-HeavyItalic.woff") format("woff"), url("fonts/CooperHewitt-HeavyItalic.eot") format("embedded-opentype"), url("fonts/CooperHewitt-HeavyItalic.otf") format("opentype");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Cooper Hewitt";
    src: url("fonts/CooperHewitt-Light.woff") format("woff"), url("fonts/CooperHewitt-Light.eot") format("embedded-opentype"), url("fonts/CooperHewitt-Light.otf") format("opentype");
    font-weight: normal;
    font-style: normal;
 }
 @font-face {
    font-family: "Cooper Hewitt";
+   src: url("fonts/CooperHewitt-LightItalic.woff") format("woff"), url("fonts/CooperHewitt-LightItalic.eot") format("embedded-opentype"), url("fonts/CooperHewitt-LightItalic.otf") format("opentype");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Cooper Hewitt";
    src: url("fonts/CooperHewitt-Medium.woff") format("woff"), url("fonts/CooperHewitt-Medium.eot") format("embedded-opentype"), url("fonts/CooperHewitt-Medium.otf") format("opentype");
    font-weight: normal;
    font-style: normal;
+}
+@font-face {
+   font-family: "Cooper Hewitt";
+   src: url("fonts/CooperHewitt-MediumItalic.woff") format("woff"), url("fonts/CooperHewitt-MediumItalic.eot") format("embedded-opentype"), url("fonts/CooperHewitt-MediumItalic.otf") format("opentype");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Cooper Hewitt";
+   src: url("fonts/CooperHewitt-Semibold.woff") format("woff"), url("fonts/CooperHewitt-Semibold.eot") format("embedded-opentype"), url("fonts/CooperHewitt-Semibold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Cooper Hewitt";
+   src: url("fonts/CooperHewitt-SemiboldItalic.woff") format("woff"), url("fonts/CooperHewitt-SemiboldItalic.eot") format("embedded-opentype"), url("fonts/CooperHewitt-SemiboldItalic.otf") format("opentype");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Cooper Hewitt";
+   src: url("fonts/CooperHewitt-Thin.woff") format("woff"), url("fonts/CooperHewitt-Thin.eot") format("embedded-opentype"), url("fonts/CooperHewitt-Thin.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Cooper Hewitt";
+   src: url("fonts/CooperHewitt-ThinItalic.woff") format("woff"), url("fonts/CooperHewitt-ThinItalic.eot") format("embedded-opentype"), url("fonts/CooperHewitt-ThinItalic.otf") format("opentype");
+   font-weight: normal;
+   font-style: italic;
 }
 @font-face {
    font-family: "Montserrat";
